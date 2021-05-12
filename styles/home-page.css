@@ -1,0 +1,32 @@
+body {
+text-align: center;
+padding-top: 5%; 
+padding-bottom: 5%;
+padding-left: 15%;
+padding-right: 15%;
+background-color: lightgray;
+color: black;
+}
+
+.banner img{
+width: 100%;
+border-radius: 5%;
+}
+
+header img {
+width: 10%;
+}
+
+footer {
+
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+details {
+padding-top: 20px;
+font-size: xx-large;
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Source%20Code%20Pro:wght@600&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(318,320) rotate(0,0,0)">
+<a xlink:href="https://www.krivanja.dev">
+<text fill="#4362a7" stroke="none" font-family="Source Code Pro" font-size="103.673px" font-style="normal" font-weight="normal" x="-248.8079833984375" y="-41.469120000000004" text-anchor="start" dominant-baseline="alphabetic">KRIVANJA</text>
+</a>
+</g>
+<g transform="translate(464,464) rotate(-45,0,0)">
+<text fill="#bed843" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-248.79595947265625" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">Mechatronics</text>
+</g>
+<g transform="translate(266,360) rotate(0,0,0)">
+<text fill="#7e42a6" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-228.06295776367188" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">Programming</text>
+</g>
+<g transform="translate(102,246) rotate(-90,0,0)">
+<text fill="#bc0a13" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-207.32994079589844" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">Web Design</text>
+</g>
+<g transform="translate(278,458) rotate(-90,0,0)">
+<text fill="#ca8f57" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-124.39796447753906" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">Coding</text>
+</g>
+<g transform="translate(340,420) rotate(-45,0,0)">
+<text fill="#7e42a6" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-62.19898223876953" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">CAD</text>
+</g>
+<g transform="translate(316,232) rotate(0,0,0)">
+<text fill="#7e42a6" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-62.19898223876953" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">CAE</text>
+</g>
+<g transform="translate(316,180) rotate(0,0,0)">
+<text fill="#ce3440" stroke="none" font-family="Source Code Pro" font-size="69.1152px" font-style="normal" font-weight="normal" x="-62.19898223876953" y="-27.64608" text-anchor="start" dominant-baseline="alphabetic">CAM</text>
+</g>
+<g transform="translate(524,424) rotate(-45,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-165.8399658203125" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">MIT App inventor</text>
+</g>
+<g transform="translate(206,468) rotate(-90,0,0)">
+<text fill="#4362a7" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-124.37997436523438" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Raspberry Pi</text>
+</g>
+<g transform="translate(174,440) rotate(-90,0,0)">
+<text fill="#fff" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-103.64997863769531" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Fusion 360</text>
+</g>
+<g transform="translate(142,432) rotate(-90,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-103.64997863769531" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Javascript</text>
+</g>
+<g transform="translate(316,116) rotate(0,0,0)">
+<text fill="#ce3440" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-93.28498077392578" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Minecraft</text>
+</g>
+<g transform="translate(234,126) rotate(-90,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-82.91998291015625" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Calculix</text>
+</g>
+<g transform="translate(202,126) rotate(-90,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-82.91998291015625" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">MakeCode</text>
+</g>
+<g transform="translate(314,88) rotate(0,0,0)">
+<text fill="#7e42a6" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-82.91998291015625" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Simscale</text>
+</g>
+<g transform="translate(378,402) rotate(-45,0,0)">
+<text fill="#ce3440" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-72.55498504638672" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Arduino</text>
+</g>
+<g transform="translate(442,136) rotate(-90,0,0)">
+<text fill="#ce3440" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-72.55498504638672" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Onshape</text>
+</g>
+<g transform="translate(504,220) rotate(0,0,0)">
+<text fill="#bc0a13" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-72.55498504638672" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Scratch</text>
+</g>
+<g transform="translate(494,192) rotate(0,0,0)">
+<text fill="#bc0a13" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-62.18998718261719" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">MATLAB</text>
+</g>
+<g transform="translate(494,164) rotate(0,0,0)">
+<text fill="#4362a7" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-62.18998718261719" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">OCTAVE</text>
+</g>
+<g transform="translate(336,476) rotate(-45,0,0)">
+<text fill="#ca8f57" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-62.18998718261719" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Python</text>
+</g>
+<g transform="translate(420,396) rotate(-45,0,0)">
+<text fill="#4362a7" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-51.824989318847656" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Ansys</text>
+</g>
+<g transform="translate(266,160) rotate(-90,0,0)">
+<text fill="#bed843" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-51.824989318847656" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">Linux</text>
+</g>
+<g transform="translate(114,378) rotate(-90,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-41.459991455078125" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">GD&amp;T</text>
+</g>
+<g transform="translate(314,68) rotate(0,0,0)">
+<text fill="#4ba894" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-41.459991455078125" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">HTML</text>
+</g>
+<g transform="translate(414,178) rotate(-90,0,0)">
+<text fill="#ce3440" stroke="none" font-family="Source Code Pro" font-size="34.5576px" font-style="normal" font-weight="normal" x="-31.094993591308594" y="-13.82304" text-anchor="start" dominant-baseline="alphabetic">CSS</text>
+</g>
+</g>
+</svg>

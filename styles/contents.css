@@ -1,0 +1,23 @@
+body {
+text-align: justify;
+padding-top: 5%; 
+padding-bottom: 5%;
+padding-left: 15%;
+padding-right: 15%;
+background-color: lightgray;
+color: black;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+details {
+padding-top: 20px;
+font-size: large;
+}
+
+footer {
+text-align: center;
+}
